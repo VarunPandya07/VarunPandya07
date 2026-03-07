@@ -120,17 +120,22 @@ Tools I'm Eyeing:
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VarunPandya07&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF)
+<img src="https://github-readme-stats.vercel.app/api?username=VarunPandya07&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&count_private=true" alt="GitHub Stats" />
 
 &nbsp;
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VarunPandya07&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VarunPandya07&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Top Languages" />
 
 &nbsp;
 
-![GitHub Streak](https://streak-stats.demolab.com?user=VarunPandya07&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VarunPandya07&theme=tokyonight" alt="GitHub Summary" />
 
 </div>
+```
+
+**Also try opening this link directly in your browser** and tell me if you see an image or an error:
+```
+https://github-readme-stats.vercel.app/api?username=VarunPandya07
 
 ## 🔥 What Drives Me
 
