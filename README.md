@@ -118,23 +118,16 @@ Tools I'm Eyeing:
 
 ## 📈 GitHub Stats
 
-## 📈 GitHub Stats
-
 <div align="center">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VarunPandya07&theme=tokyonight" alt="GitHub Summary" />
-
 &nbsp;
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VarunPandya07&theme=tokyonight" alt="Stats" />
-
 &nbsp;
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VarunPandya07&theme=tokyonight" alt="Most Commit Language" />
 &nbsp;
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=VarunPandya07&theme=tokyonight&utcOffset=5.5" alt="Productive Time" />
 &nbsp;
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VarunPandya07&theme=tokyonight" alt="Repos Per Language" />
 &nbsp;
 
