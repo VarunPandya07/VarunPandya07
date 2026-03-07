@@ -120,7 +120,7 @@ Tools I'm Eyeing:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=VarunPandya07&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&count_private=true" alt="GitHub Stats" />
+<img src="https://readme-stats.vercel.app/api?username=VarunPandya07&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" alt="GitHub Stats" />
 
 &nbsp;
 
@@ -130,12 +130,13 @@ Tools I'm Eyeing:
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VarunPandya07&theme=tokyonight" alt="GitHub Summary" />
 
-</div>
-```
+&nbsp;
 
-**Also try opening this link directly in your browser** and tell me if you see an image or an error:
-```
-https://github-readme-stats.vercel.app/api?username=VarunPandya07
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VarunPandya07&theme=tokyonight" alt="Repos Per Language" />
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VarunPandya07&theme=tokyonight" alt="Most Commit Language" />
+
+</div>
 
 ## 🔥 What Drives Me
 
