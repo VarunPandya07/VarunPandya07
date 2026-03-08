@@ -133,16 +133,13 @@ Tools I'm Eyeing:
 
 </div>
 
-## 🔥 What Drives Me
-
-```python
 class DevOpsEnthusiast:
     def __init__(self):
-        self.name        = "Your Name"
+        self.name        = "Varun Pandya"
         self.mindset     = "Automate everything. Monitor everything. Break nothing."
         self.passion     = ["CI/CD", "IaC", "Observability", "MLOps"]
         self.daily_tools = ["Terminal", "VS Code", "Docker", "Git"]
-        self.goal_2025   = "Land first DevOps/Cloud role & contribute to open source"
+        self.goal_2026   = "Land first DevOps/Cloud role & contribute to open source"
 
     def motivation(self):
         return """
@@ -162,8 +159,6 @@ class DevOpsEnthusiast:
 
 me = DevOpsEnthusiast()
 print(me.motivation())
-```
-
 ---
 
 ## 🌱 Projects I'm Working Toward
